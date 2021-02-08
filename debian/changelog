@@ -1,3 +1,9 @@
+grub2 (2.04-1ubuntu26.8bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 08 Feb 2021 13:57:18 +0100
+
 grub2 (2.04-1ubuntu26.8) focal; urgency=medium
 
   * debian/patches/grub-install-backup-and-restore.patch: Fix-up the patch
