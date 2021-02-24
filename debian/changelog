@@ -1,3 +1,9 @@
+grub2 (2.04-1ubuntu26.9bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Wed, 24 Feb 2021 20:39:51 +0100
+
 grub2 (2.04-1ubuntu26.9) focal; urgency=medium
 
   * Revert: rhboot-f34-tcp-add-window-scaling-support.patch,
