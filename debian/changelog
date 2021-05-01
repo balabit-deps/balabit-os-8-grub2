@@ -1,3 +1,9 @@
+grub2 (2.04-1ubuntu26.11bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 01 May 2021 16:25:50 +0200
+
 grub2 (2.04-1ubuntu26.11) focal; urgency=medium
 
   [ Dimitri John Ledkov & Steve Langasek ]
