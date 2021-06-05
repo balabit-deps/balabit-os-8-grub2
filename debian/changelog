@@ -1,3 +1,9 @@
+grub2 (2.04-1ubuntu26.12bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 05 Jun 2021 16:21:31 +0200
+
 grub2 (2.04-1ubuntu26.12) focal; urgency=medium
 
   * Bump the version number in the replaces for grub-efi-* to account for
