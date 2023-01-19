@@ -1,3 +1,9 @@
+grub2 (2.04-1ubuntu26.16bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Thu, 19 Jan 2023 19:43:41 +0100
+
 grub2 (2.04-1ubuntu26.16) focal; urgency=medium
 
   * grub-multi-install: Reset partition type between partitions (LP: #1997795)
